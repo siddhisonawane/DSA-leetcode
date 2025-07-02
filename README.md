@@ -34,6 +34,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
