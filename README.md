@@ -33,11 +33,13 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
