@@ -6,6 +6,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 ## String
 |  |
