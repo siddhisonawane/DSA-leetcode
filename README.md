@@ -9,6 +9,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0007-reverse-integer](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
@@ -33,6 +34,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0027-remove-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +78,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
