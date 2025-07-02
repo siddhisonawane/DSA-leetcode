@@ -9,6 +9,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0007-reverse-integer](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
+| [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -97,4 +99,12 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
