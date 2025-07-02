@@ -11,6 +11,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -119,6 +120,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
