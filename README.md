@@ -9,6 +9,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0007-reverse-integer](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
+| [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -94,6 +95,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
