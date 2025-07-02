@@ -15,4 +15,12 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
