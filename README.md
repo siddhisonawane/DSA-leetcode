@@ -15,6 +15,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
