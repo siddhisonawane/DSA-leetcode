@@ -36,6 +36,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -147,4 +148,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
