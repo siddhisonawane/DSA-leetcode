@@ -23,6 +23,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -81,5 +82,6 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
