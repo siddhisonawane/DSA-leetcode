@@ -17,6 +17,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
