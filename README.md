@@ -33,6 +33,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -62,6 +63,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
@@ -158,4 +160,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
