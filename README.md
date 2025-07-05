@@ -8,6 +8,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0007-reverse-integer](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0050-powx-n) |
@@ -18,6 +19,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
@@ -60,6 +62,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
