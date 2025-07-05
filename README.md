@@ -20,6 +20,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
@@ -37,6 +38,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0001-two-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -175,4 +177,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
