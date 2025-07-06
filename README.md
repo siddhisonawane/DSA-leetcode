@@ -23,6 +23,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0014-longest-common-prefix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
@@ -52,6 +53,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
@@ -103,6 +105,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Divide and Conquer
@@ -173,6 +176,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |
@@ -181,4 +185,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
