@@ -150,6 +150,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -195,4 +196,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
