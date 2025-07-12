@@ -63,6 +63,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Hash Table
@@ -105,10 +106,12 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 ## Matrix
 |  |
 | ------- |
