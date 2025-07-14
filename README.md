@@ -28,12 +28,14 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Array
 |  |
@@ -113,6 +115,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
