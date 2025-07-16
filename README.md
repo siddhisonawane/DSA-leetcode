@@ -116,6 +116,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -247,9 +248,11 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
