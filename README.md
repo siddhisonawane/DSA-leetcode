@@ -26,6 +26,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -84,6 +85,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0142-linked-list-cycle-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,4 +258,5 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
