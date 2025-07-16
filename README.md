@@ -116,6 +116,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -243,4 +244,12 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0908-middle-of-the-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
