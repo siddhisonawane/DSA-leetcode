@@ -71,6 +71,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
@@ -112,6 +113,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -159,6 +161,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0088-merge-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Counting
@@ -227,6 +230,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Trie
 |  |
 | ------- |
