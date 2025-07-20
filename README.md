@@ -25,6 +25,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0058-length-of-last-word](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
@@ -66,6 +67,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
@@ -162,6 +164,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0075-sort-colors](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
@@ -233,6 +236,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Trie
 |  |
