@@ -123,6 +123,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | ------- |
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -246,6 +247,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -273,4 +275,12 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0225-implement-stack-using-queues](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
