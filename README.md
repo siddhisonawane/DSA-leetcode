@@ -29,6 +29,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
+| [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -37,6 +38,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0043-multiply-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Array
@@ -107,6 +109,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
+| [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -130,6 +133,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0232-implement-queue-using-stacks](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
+| [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
