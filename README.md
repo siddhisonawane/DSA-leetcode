@@ -184,6 +184,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
@@ -195,6 +196,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
@@ -290,6 +292,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -298,6 +301,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
