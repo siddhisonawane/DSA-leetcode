@@ -256,6 +256,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +291,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,9 +299,18 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
