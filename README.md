@@ -301,6 +301,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -311,6 +312,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -326,4 +328,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
