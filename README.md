@@ -66,6 +66,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -165,6 +166,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
@@ -300,6 +302,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -313,6 +316,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0094-binary-tree-inorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -336,6 +340,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
