@@ -142,6 +142,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -275,6 +276,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0933-increasing-order-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Linked List
@@ -322,6 +324,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -342,6 +345,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0572-subtree-of-another-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -368,6 +372,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0450-delete-node-in-a-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
