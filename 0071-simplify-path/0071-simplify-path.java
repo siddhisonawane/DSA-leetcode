@@ -3,27 +3,27 @@ import java.util.*;
 class Solution {
     public static String simplifyPath(String path) {
         String[] parts = path.split("/");
-        Deque<String> stack = new LinkedList<>();
+        Stack<String> s1 = new Stack<>();
 
         for (int i = 0; i < parts.length; i++) {
             if (parts[i].equals("") || parts[i].equals(".")) {
                 continue;
             } else if (parts[i].equals("..")) {
-                if (!stack.isEmpty()) {
-                    stack.pop();
+                if (!s1.isEmpty()) {
+                    s1.pop();
                 }
             } else {
-                stack.push(parts[i]);
+                s1.push(parts[i]);
             }
         }
-        if (stack.isEmpty()) {
+        if (s1.isEmpty()) {
             return "/";
         }
-        List<String> list = new ArrayList<>(stack);
-        Collections.reverse(list);
+        // List<String> list = new ArrayList<>(s1);
+        // Collections.reverse(list);
 
         StringBuilder simplifiedPath = new StringBuilder();
-        for (String dir : list) {
+        for (String dir : s1) {
             simplifiedPath.append("/");
             simplifiedPath.append(dir);
         }
