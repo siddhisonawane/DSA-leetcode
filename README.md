@@ -42,6 +42,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0054-spiral-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Array
@@ -82,6 +83,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0898-transpose-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -167,6 +169,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0074-search-a-2d-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0898-transpose-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Divide and Conquer
 |  |
