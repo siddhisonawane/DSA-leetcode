@@ -82,6 +82,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -104,6 +105,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -123,6 +125,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -195,6 +198,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0948-sort-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -225,6 +229,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
