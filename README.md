@@ -16,6 +16,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0069-sqrtx](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -230,6 +231,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
