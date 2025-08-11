@@ -231,6 +231,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -401,4 +402,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0975-range-sum-of-bst](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
