@@ -31,6 +31,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0079-word-search](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0541-reverse-string-ii) |
@@ -104,6 +105,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0141-linked-list-cycle](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
