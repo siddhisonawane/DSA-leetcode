@@ -232,6 +232,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0222-count-complete-tree-nodes](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0441-arranging-coins) |
@@ -407,5 +408,6 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
