@@ -1,18 +1,16 @@
 class Solution {
     public static int maxSubArray(int[] nums) {
-        int maxSoFar = nums[0];
-        int currentMax = nums[0];
+        int maxSum=Integer.MIN_VALUE;
+        int currSum=0;
 
-        for (int i = 1; i < nums.length; i++) {
-            currentMax = Math.max(nums[i], currentMax + nums[i]);
-            maxSoFar = Math.max(maxSoFar, currentMax);
+        for(int i=0;i<nums.length;i++){
+            currSum = Math.max(nums[i], currSum + nums[i]);
+            maxSum=Math.max(currSum,maxSum);
         }
-
-        return maxSoFar;
+        return maxSum;
     }
-
-    public static void main(String[] args) {
-        int[] nums = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-        System.out.println(maxSubArray(nums)); 
+    public static void main(String args[]){
+        int nums[]={-2,1,-3,4,-1,2,-5,4};
+        System.out.println(maxSubArray(nums));
     }
 }
