@@ -76,6 +76,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0162-find-peak-element) |
@@ -144,6 +145,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0042-trapping-rain-water](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0646-maximum-length-of-pair-chain](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
