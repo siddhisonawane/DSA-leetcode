@@ -97,6 +97,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0240-search-a-2d-matrix-ii](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Divide and Conquer
 |  |
