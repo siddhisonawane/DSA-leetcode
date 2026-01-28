@@ -16,6 +16,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0069-sqrtx](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
@@ -265,6 +266,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [0206-reverse-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
