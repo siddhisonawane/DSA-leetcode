@@ -102,6 +102,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2728-sum-in-a-matrix](https://github.com/siddhisonawane/DSA-leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3637-trionic-array-i](https://github.com/siddhisonawane/DSA-leetcode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
