@@ -436,4 +436,8 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
