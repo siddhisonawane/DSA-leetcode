@@ -440,6 +440,7 @@ Solutions to LeetCode problems focused on Data Structures and Algorithms — for
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0176-second-highest-salary) |
+| [0584-find-customer-referee](https://github.com/siddhisonawane/DSA-leetcode/tree/master/0584-find-customer-referee) |
 | [1527-patients-with-a-condition](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1527-patients-with-a-condition) |
 | [1729-find-followers-count](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/siddhisonawane/DSA-leetcode/tree/master/1873-calculate-special-bonus) |
